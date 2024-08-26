@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="blender-02_2.1mb"/>
+  <img src="blender-02_2.1mb.png"/>
 </p>
 
 
