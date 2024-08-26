@@ -65,7 +65,33 @@
 
 <br><br><br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flyupunity&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+<div align="center">
+    <table align="center">
+    <tr border="none">
+    <td width="50%" height="auto" align="left">   
+ </div>
+        
+<div align="center">
+     <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=flyupunity&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+</td>
+    <td width="50%" align="center">
+      
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=flyupunity&count_private=true&theme=react&border_radius=10" alt="streak stats"/> 
+    
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=flyupunity&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  </div> 
+  </td>
+</tr>
+</table>
 
 <picture>
   <source
