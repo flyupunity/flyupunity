@@ -63,13 +63,66 @@
   
 </div>
 
-
-
-
-
-
-
 <br><br><br><br>
+
+
+
+
+
+<div align="center">
+    <table align="center">
+    <tr border="none">
+    <td width="50%" height="auto" align="left">   
+ </div>
+        
+<div align="center">
+     <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=flyupunity&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+</td>
+    <td width="50%" align="center">
+      
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=flyupunity&count_private=true&theme=react&border_radius=10" alt="streak stats"/> 
+    
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=flyupunity&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  </div> 
+  </td>
+</tr>
+</table>
+
+
+<br>
+
+<div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=flyupunity&theme=transparent" height="180em" alt="Stats"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=flyupunity&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flyupunity&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=flyupunity&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flyupunity&theme=transparent" height="180em" alt="Commitments"/>
+</div>
+
+<br>
+
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+<br><br><br><br><br>
 ## Links:
 <br>
 <br>Itch.io - https://fly-up.itch.io/ 
