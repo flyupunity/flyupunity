@@ -19,7 +19,7 @@
 
 <!--# My works-->
 
-## Images
+## My 3D models
 <br><br><br>
 
 <div align="center">
@@ -35,7 +35,7 @@
 
 
 
-## Games
+## My games
 <br><br><br><br><br>
 
 <div align="center">
