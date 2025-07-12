@@ -14,7 +14,7 @@
 <br>at the end of the game jam I post the game on itch.io, and the source code on GitHub.
 
 <br>I create some projects and games separately in order to learn something new,
-<br>I publish some on GitHub, Yandex Games, Itch.io, YouTube, etc.
+<br>I publish some on GitHub, Itch.io, YouTube, etc.
 
 
 <!--# My works-->
